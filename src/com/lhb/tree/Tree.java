@@ -100,7 +100,7 @@ public class Tree {
 		Tree.inOrder(t1);
 		System.out.println();
 		Tree.postOrder(t1);
-		
+		Tree.postOrder(t1);//kehuduan
 
 	}
 
