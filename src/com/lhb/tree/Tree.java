@@ -1,5 +1,7 @@
 package com.lhb.tree;
-
+/**
+ * ×¢ÊÍ£º¿Í»§¶Ë¸Ä22£º24
+ */
 import java.util.Stack;
 
 public class Tree {
